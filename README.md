@@ -1,5 +1,6 @@
 # Rick & Morty Frontend Task
 ### Выполнил: Давидчук Никита Олегович
+Все элементы адаптивны к размеру экрана
 
 ### Скриншоты
 <img width="1479" alt="Снимок экрана 2023-05-31 в 03 55 49" src="https://github.com/Ar4ikov/RickAndMortyFrontend/assets/20085792/ff40667d-8f69-40a2-a1bc-4f9b2d15f1c2">
